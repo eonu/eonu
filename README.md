@@ -2,6 +2,8 @@
   👋
 </h1>
 
+<img src="/img/xkcd.png" width="25%" align="right"></img>
+
 Hi! My name is Edwin, and I'm currently studying an MSc in Statistics with Data Science at the [School of Mathematics, University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics).
 
 I normally work with Ruby and Python, mainly doing machine learning or data science related things in Python, and any general purpose scripting, task automation or web development in Ruby – but I'm always interested in learning new things!
