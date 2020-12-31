@@ -2,7 +2,7 @@
   👋
 </h1>
 
-<img src="/img/xkcd2.png" width="200px" align="right"></img>
+<img src="/img/xkcd.png" width="200px" align="right"></img>
 
 Hi! My name is Edwin, and I'm currently studying an MSc in Statistics with Data Science at the [School of Mathematics, University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics).
 
