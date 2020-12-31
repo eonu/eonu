@@ -27,9 +27,6 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
                 </a>
 			</th>
             <th align="center">
-                <a href="https://en.wikipedia.org/wiki/SQL">
-                    <img src="/img/sql.png" alt="SQL" width="30px"/>
-                </a>
                 <a href="https://www.postgresql.org/">
                     <img src="/img/postgresql.svg" alt="PostgreSQL" width="30px"/>
                 </a>
@@ -66,7 +63,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 			</th>
             <th align="center">
                 <a href="https://git-scm.com/">
-                    <img src="/img/git.svg" alt="Git" width="30px"/>
+                    <img src="/img/git.svg" alt="Git" width="45px"/>
                 </a>
                 <a href="https://github.com/">
                     <img src="/img/github.svg" alt="GitHub" width="30px"/>
@@ -96,6 +93,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 	</thead>
 </table>
 
+<!--
 ### Libraries
 
 <details>
@@ -151,3 +149,4 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 
 </p>
 </details>
+-->
