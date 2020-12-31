@@ -65,6 +65,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
                 <a href="https://git-scm.com/">
                     <img src="/img/git.svg" alt="Git" width="50px"/>
                 </a>
+                &nbsp;
                 <a href="https://github.com/">
                     <img src="/img/github.svg" alt="GitHub" width="30px"/>
                 </a>
