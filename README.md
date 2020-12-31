@@ -87,7 +87,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
             </th>
             <th align="center">
                 <a href="https://www.latex-project.org/">
-                    <img src="/img/latex.svg" alt="LaTeX" width="30px"/>
+                    <img src="/img/latex.svg" alt="LaTeX" width="45px"/>
                 </a>
 			</th>
 		</tr>
