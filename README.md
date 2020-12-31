@@ -13,83 +13,83 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 		<tr>
 			<th align="center">
                 <a href="https://www.python.org/">
-                    <img src="/img/python.svg" alt="Python" width="60px"/>
+                    <img src="/img/python.svg" alt="Python" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://www.ruby-lang.org/en/">
-                    <img src="/img/ruby.svg" alt="Ruby" width="60px"/>
+                    <img src="/img/ruby.svg" alt="Ruby" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://www.r-project.org/about.html">
-                    <img src="/img/r.svg" alt="R" width="60px"/>
+                    <img src="/img/r.svg" alt="R" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://en.wikipedia.org/wiki/SQL">
-                    <img src="/img/sql.png" alt="SQL" width="60px"/>
+                    <img src="/img/sql.png" alt="SQL" width="30px"/>
                 </a>
                 <a href="https://www.postgresql.org/">
-                    <img src="/img/postgresql.svg" alt="PostgreSQL" width="60px"/>
+                    <img src="/img/postgresql.svg" alt="PostgreSQL" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://en.wikipedia.org/wiki/HTML">
-                    <img src="/img/html.png" alt="HTML" width="60px"/>
+                    <img src="/img/html.png" alt="HTML" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://www.javascript.com/">
-                    <img src="/img/js.png" alt="JavaScript" width="60px"/>
+                    <img src="/img/js.png" alt="JavaScript" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://en.wikipedia.org/wiki/CSS">
-                    <img src="/img/css.png" alt="CSS" width="60px"/>
+                    <img src="/img/css.png" alt="CSS" width="30px"/>
                 </a>
                 <a href="https://sass-lang.com/">
-                    <img src="/img/sass.png" alt="SASS" width="60px"/>
+                    <img src="/img/sass.png" alt="SASS" width="30px"/>
                 </a>
 			</th>
 		</tr>
         <tr>
 			<th align="center">
                 <a href="https://code.visualstudio.com/">
-                    <img src="/img/vscode.png" alt="VS Code" width="60px"/>
+                    <img src="/img/vscode.png" alt="VS Code" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://rstudio.com/">
-                    <img src="/img/rstudio.svg" alt="RStudio" width="60px"/>
+                    <img src="/img/rstudio.svg" alt="RStudio" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://git-scm.com/">
-                    <img src="/img/git.svg" alt="Git" width="60px"/>
+                    <img src="/img/git.svg" alt="Git" width="30px"/>
                 </a>
                 <a href="https://github.com/">
-                    <img src="/img/github.svg" alt="GitHub" width="60px"/>
+                    <img src="/img/github.svg" alt="GitHub" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://apple.com/macos">
-                    <img src="/img/macos.png" alt="MacOS" width="60px"/>
+                    <img src="/img/macos.png" alt="MacOS" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://www.gnu.org/software/bash/">
-                    <img src="/img/bash.png" alt="Bash" width="60px"/>
+                    <img src="/img/bash.png" alt="Bash" width="30px"/>
                 </a>
 			</th>
             <th align="center">
                 <a href="https://docs.conda.io/en/latest/">
-                    <img src="/ing/conda.png" alt="Conda" width="60px"/>
+                    <img src="/img/conda.png" alt="Conda" width="30px"/>
                 </a>
             </th>
             <th align="center">
                 <a href="https://www.latex-project.org/">
-                    <img src="/img/latex.svg" alt="LaTeX" width="60px"/>
+                    <img src="/img/latex.svg" alt="LaTeX" width="30px"/>
                 </a>
 			</th>
 		</tr>
