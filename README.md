@@ -61,9 +61,9 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
                     <img src="/img/rstudio.svg" alt="RStudio" width="30px"/>
                 </a>
 			</th>
-            <th align="center" style="vertical-align: top;">
+            <th align="center">
                 <a href="https://git-scm.com/">
-                    <img src="/img/git.svg" alt="Git" width="45px"/>
+                    <img src="/img/git.svg" alt="Git" width="50px"/>
                 </a>
                 <a href="https://github.com/">
                     <img src="/img/github.svg" alt="GitHub" width="30px"/>
