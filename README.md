@@ -43,7 +43,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 			</th>
             <th align="center">
                 <a href="https://en.wikipedia.org/wiki/CSS">
-                    <img src="/img/css.png" alt="CSS" width="30px"/>
+                    <img src="/img/css.png" alt="CSS" width="34px"/>
                 </a>
                 <a href="https://sass-lang.com/">
                     <img src="/img/sass.png" alt="SASS" width="30px"/>
