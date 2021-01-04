@@ -8,6 +8,8 @@ Hi! My name is Edwin, and I'm currently studying an MSc in Statistics with Data 
 
 I normally work with Ruby and Python, mainly doing machine learning or data science related things in Python and R, and any general purpose scripting, task automation or web development in Ruby – but I'm always interested in learning new things!
 
+---
+
 <details>
 <summary>
     <b>Right now, I'm learning about:</b>
