@@ -14,7 +14,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 </summary>
 <p>
 
-- _Bayesian statistics_ (particularly the computational side, i.e. Markov Chain Monte Carlo methods)
+- _Bayesian statistics_ (particularly the computational side, i.e. Markov Chain Monte Carlo)
 - _Multiple imputation for incomplete datasets_
 - _Generalized regression models_
 - _Applied statistical techniques_: goodness-of-fit, permutation and non-parametric tests
