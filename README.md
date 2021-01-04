@@ -43,7 +43,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 </summary>
 <p>
 
-- _Common machine learning methods_: Bayes classifiers, linear/logistic regression, kNN, decision trees, etc.
+- _Common machine learning methods_: linear/logistic regression, Bayes classifiers, kNN, decision trees, etc.
 - _Statistical methodology_: likelihood-based inference (MLEs, confidence intervals, likelihood ratio tests), hypothesis testing, iterative MLE methods
 - _Neural networks_: mainly feed-forward and recurrent architectures, but also some knowledge of CNNs
 - _Sequence classification algorithms_ (and applying them to areas such as speech recognition): hidden Markov models, RNNs (vanilla & LSTM/GRU variants), dynamic time warping + kNN
