@@ -54,7 +54,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 
 <details>
     <summary>
-        <b>I am confident with these systems, tools and languages:</b>
+        <b>I am confident with these languages, tools and systems:</b>
     </summary>
     <p>
         <table>
