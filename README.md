@@ -31,7 +31,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 
 - _Bayesian machine learning_: gaussian processes and probablistic graphical models (particularly conditional random fields)
 - _Statistical time series concepts_: autocorrelation, moving-average & autoregressive processes, forecasting models like ARMA/ARIMA, etc.
-- _Audio representations for machine learning_ (and how to generate them from raw audio): Mel spectrograms, MFCCs and chromagrams
+- _Audio representations for machine learning_: Mel spectrograms, MFCCs and chromagrams
 - _State-of-the-art NLP language modelling techniques_: transformers, BERT and GPT-3
 
 </p>
