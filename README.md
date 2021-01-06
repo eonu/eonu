@@ -33,6 +33,7 @@ I normally work with Ruby and Python, mainly doing machine learning or data scie
 - _Statistical time series concepts_: autocorrelation, moving-average & autoregressive processes, forecasting models like ARMA/ARIMA, etc.
 - _Audio representations for machine learning_: Mel spectrograms, MFCCs and chromagrams
 - _State-of-the-art NLP language modelling techniques_: transformers, BERT and GPT-3
+- _Ensemble classifiers_: bagging and gradient boosting (with XGBoost)
 
 </p>
 </details>
