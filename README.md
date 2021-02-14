@@ -6,7 +6,7 @@
 
 Hi! My name is Edwin, and I'm currently studying an MSc in Statistics with Data Science at the [School of Mathematics, University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics).
 
-I normally work with Ruby and Python, mainly doing machine learning or data science related things in Python and R, and any general purpose scripting, task automation or web development in Ruby – but I'm always interested in learning new things!
+I normally work with Ruby, Python and R, mainly doing machine learning or data science related things in Python and R, and any general purpose scripting, task automation or web development in Ruby – but I'm always interested in learning new things!
 
 <details>
 <summary>
