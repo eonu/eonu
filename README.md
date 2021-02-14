@@ -15,7 +15,7 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 <p>
 
 - _Bayesian statistics_ (particularly the computational side, i.e. Markov Chain Monte Carlo)
-- _Imputation for incomplete datasets (e.g. MICE)_
+- _Imputation for incomplete datasets_ (e.g. MICE)
 - _Generalized regression models_
 - _Applied statistical techniques_: goodness-of-fit, permutation and non-parametric tests
 - _Applications of statistical methods_: biomedical data, credit scoring, etc.
