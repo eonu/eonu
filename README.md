@@ -15,10 +15,10 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 <p>
 
 - _Bayesian statistics_ (particularly the computational side, i.e. Markov Chain Monte Carlo)
-- _Imputation for incomplete datasets_ (e.g. MICE)
+- _Imputation for incomplete datasets_: regression imputation, kNN imputation and MICE
 - _Generalized regression models_
-- _Applied statistical techniques_: goodness-of-fit, permutation and non-parametric tests
-- _Applications of statistical methods_: biomedical data, credit scoring, etc.
+- _Statistical testing_: goodness-of-fit, permutation and non-parametric tests
+- _Applications of statistical methods_: biomedical data and credit scoring
 
 </p>
 </details>
@@ -46,7 +46,7 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 
 - _Common machine learning methods_: linear/logistic regression, Bayes classifiers, kNN, decision trees, etc.
 - _Statistical methodology_: likelihood-based inference (MLEs, confidence intervals, likelihood ratio tests), hypothesis testing, iterative MLE methods
-- _Neural networks_: mainly feed-forward and recurrent architectures, but also some knowledge of CNNs
+- _Neural networks_: mainly feed-forward and recurrent architectures, but also some knowledge and practice with CNNs
 - _Sequence classification algorithms_ (and applying them to areas such as speech recognition): hidden Markov models, RNNs (vanilla & LSTM/GRU variants), dynamic time warping + kNN
 - _Natural language processing_: challenges & ethics, corpora, n-gram language models, POS tagging, word embeddings, sentiment analysis, attentional encoder-decoder machine translation systems
 
