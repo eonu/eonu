@@ -4,7 +4,7 @@
 
 <img src="/img/xkcd.png" width="200px" align="right"></img>
 
-Hi! My name is Edwin, and I'm currently studying an MSc in Statistics with Data Science at the [School of Mathematics, University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics).
+Hi! My name is Edwin, and I'm currently a data scientist at [Nibble](https://www.nibbletechnology.com/) mainly looking at ways of using machine learning and statistics to improve a fun negotiation chatbot. I recently finished my MSc studies in Statistics with Data Science at the [School of Mathematics, University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics), and so far I am enjoying being able to apply the knowledge I gained to real-world scenarios.
 
 I normally work with Ruby, Python and R, mainly doing machine learning or data science related things in Python and R, and any general purpose scripting, task automation or web development in Ruby – but I'm always interested in learning new things!
 
@@ -14,11 +14,8 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 </summary>
 <p>
 
-- _Bayesian statistics_ (particularly the computational side, i.e. Markov Chain Monte Carlo)
-- _Imputation for incomplete datasets_: regression imputation, kNN imputation and MICE
-- _Generalized regression models_
-- _Statistical testing_: goodness-of-fit, permutation and non-parametric tests
-- _Applications of statistical methods_: biomedical data and credit scoring
+- _Reinforcement learning_
+- _NLU in conversational AI_ (focusing on [Rasa](https://rasa.com/))
 
 </p>
 </details>
@@ -30,7 +27,7 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 <p>
 
 - _Bayesian machine learning_: gaussian processes and probablistic graphical models (particularly conditional random fields)
-- _Statistical time series concepts_: autocorrelation, moving-average & autoregressive processes, forecasting models like ARMA/ARIMA, etc.
+- _Statistical time series concepts_: autocorrelation, forecasting models like ARMA/ARIMA, etc.
 - _Audio representations for machine learning_: Mel spectrograms, MFCCs and chromagrams
 - _State-of-the-art NLP language modelling techniques_: transformers, BERT and GPT-3
 - _Ensemble classifiers_: bagging and boosting (with AdaBoost, XGBoost, LightGBM, etc.)
@@ -44,7 +41,7 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 </summary>
 <p>
 
-- _Common machine learning methods_: linear/logistic regression, Bayes classifiers, kNN, decision trees, etc.
+- _Common machine learning methods_: linear/logistic regression, kNN, decision trees, etc.
 - _Statistical methodology_: likelihood-based inference (MLEs, confidence intervals, likelihood ratio tests), hypothesis testing, iterative MLE methods
 - _Neural networks_: mainly feed-forward and recurrent architectures, but also some knowledge and practice with CNNs
 - _Sequence classification algorithms_ (and applying them to areas such as speech recognition): hidden Markov models, RNNs (vanilla & LSTM/GRU variants), dynamic time warping + kNN
