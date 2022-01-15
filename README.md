@@ -15,7 +15,6 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 <p>
 
 - _Data engineering_
-- _NLU in conversational AI_ (focusing on [Rasa](https://rasa.com/))
 
 </p>
 </details>
