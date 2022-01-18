@@ -14,6 +14,7 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 </summary>
 <p>
 
+- _Gaussian processes_
 - _Data engineering_
 
 </p>
@@ -25,9 +26,9 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 </summary>
 <p>
 
-- _Bayesian machine learning_: gaussian processes and probablistic graphical models (particularly conditional random fields)
-- _Statistical time series concepts_: autocorrelation, forecasting models like ARMA/ARIMA, etc.
-- _Audio representations for machine learning_: Mel spectrograms, MFCCs and chromagrams
+- _Bayesian ML_: variational inference, probablistic graphical models (e.g. conditional random fields)
+- _Statistical time series concepts_: autocorrelation, forecasting models like ARIMA, GARCH etc.
+- _Signal processing for ML_: STFT, Mel spectrograms, MFCCs and chromagrams
 - _State-of-the-art NLP language modelling techniques_: transformers, BERT and GPT-3
 - _Ensemble classifiers_: bagging and boosting (with AdaBoost, XGBoost, LightGBM, etc.)
 
@@ -40,11 +41,11 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 </summary>
 <p>
 
-- _Common machine learning methods_: generalized linear regression, logistic regression, kNN, mixture models etc.
+- _Common ML methods_: generalized linear regression, logistic regression, kNN, mixture models etc.
 - _Statistical methodology_: likelihood-based inference (MLEs, confidence intervals, likelihood ratio tests), hypothesis testing
 - _Neural networks_: mainly feed-forward and recurrent architectures, but also some knowledge and practice with CNNs
-- _Sequence classification algorithms_: HMMs, RNNs (vanilla & LSTM/GRU variants), DTW + kNN
-- _Natural language processing_: challenges & ethics, corpora, n-gram language models, POS tagging, word embeddings, sentiment analysis, attentional encoder-decoder machine translation systems
+- _Sequence classification algorithms_: HMMs, RNNs (LSTM/GRU), DTW + kNN
+- _Natural language processing_: corpora, n-gram language models, POS tagging, word embeddings, sentiment analysis, attentional encoder-decoder machine translation systems
 
 </p>
 </details>
