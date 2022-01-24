@@ -26,7 +26,7 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 </summary>
 <p>
 
-- _Bayesian ML_: variational inference, probablistic graphical models (e.g. conditional random fields)
+- _Bayesian ML_: variational inference, probablistic graphical models (e.g. CRFs)
 - _Statistical time series concepts_: autocorrelation, forecasting models like ARIMA, GARCH etc.
 - _Signal processing for ML_: STFT, Mel spectrograms, MFCCs and chromagrams
 - _State-of-the-art NLP language modelling techniques_: transformers, BERT and GPT-3
