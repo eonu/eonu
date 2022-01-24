@@ -41,8 +41,8 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 </summary>
 <p>
 
-- _Common ML methods_: generalized linear regression, logistic regression, kNN, mixture models etc.
-- _Statistical methodology_: likelihood-based inference (MLEs, confidence intervals, likelihood ratio tests), hypothesis testing
+- _Common ML methods_: GLM, logistic regression, kNN, mixture models etc.
+- _Statistical methodology_: likelihood-based inference (MLEs, confidence intervals), hypothesis testing
 - _Neural networks_: mainly feed-forward and recurrent architectures, but also some knowledge and practice with CNNs
 - _Sequence classification algorithms_: HMMs, RNNs (LSTM/GRU), DTW + kNN
 - _Natural language processing_: corpora, n-gram language models, POS tagging, word embeddings, sentiment analysis, attentional encoder-decoder machine translation systems
