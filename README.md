@@ -45,7 +45,7 @@ I normally work with Ruby, Python and R, mainly doing machine learning or data s
 - _Statistical methodology_: likelihood-based inference (MLEs, confidence intervals), hypothesis testing
 - _Neural networks_: mainly feed-forward and recurrent architectures, but also some knowledge and practice with CNNs
 - _Sequence classification algorithms_: HMMs, RNNs (LSTM/GRU), DTW + kNN
-- _Natural language processing_: corpora, n-gram language models, POS tagging, word embeddings, sentiment analysis, attentional encoder-decoder machine translation systems
+- _Natural language processing_: attention, n-gram language models, POS tagging, word embeddings, sentiment analysis
 
 </p>
 </details>
