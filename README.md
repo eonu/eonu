@@ -4,9 +4,9 @@
 
 <img src="/img/xkcd.png" width="200px" align="right"></img>
 
-Hi! My name is Edwin, and I'm currently a data scientist at [Nibble](https://www.nibbletechnology.com/) looking at ways of using machine learning to improve a fun conversational AI agent for negotiation. I recently finished my MSc in Statistics with Data Science at the [School of Mathematics, University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics), and so far I am enjoying being able to apply the knowledge I gained to real-world scenarios.
+Hi! My name is Edwin, and I'm currently a data scientist at [Nibble](https://www.nibbletechnology.com/) looking at ways of using machine learning to improve a conversational AI agent for negotiation. I recently finished my MSc in Statistics with Data Science at the [School of Mathematics, University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics).
 
-I normally work with Ruby, Python and R, mainly doing machine learning or data science related things in Python and R, and any general purpose scripting, task automation or web development in Ruby – but I'm always interested in learning new things!
+I normally work with Python, R and Ruby, mainly doing machine learning or data science related things in Python and R, and any general purpose scripting, task automation or web development in Ruby – but I'm always interested in learning new things!
 
 <details>
 <summary>
