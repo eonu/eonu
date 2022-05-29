@@ -16,6 +16,7 @@ I normally work with Python, R and sometimes Ruby, mainly doing machine learning
 
 - _Gaussian processes_
 - _Data engineering_
+- _AWS services_
 
 </p>
 </details>
@@ -28,7 +29,6 @@ I normally work with Python, R and sometimes Ruby, mainly doing machine learning
 
 - _Bayesian ML_: variational inference, probablistic graphical models (e.g. CRFs)
 - _Statistical time series concepts_: autocorrelation, forecasting models (ARIMA, GARCH etc.)
-- _Signal processing for ML_: STFT, Mel spectrograms, MFCCs and chromagrams
 - _State-of-the-art NLP language modelling techniques_: transformers, BERT and GPT-3
 - _Ensemble classifiers_: bagging and boosting (with AdaBoost, XGBoost, LightGBM etc.)
 
