@@ -2,7 +2,7 @@
   👋
 </h1>
 
-<img src="/img/xkcd.png" width="210px" align="right"></img>
+<img src="/img/xkcd.png" width="220px" align="right"></img>
 
 Hi! My name is Edwin, and I'm currently an ML engineer at [Hazy](https://hazy.com/) working on improving a privacy-preserving synthetic data generation platform for enterprise data analytics.
 
@@ -30,7 +30,7 @@ I normally work with Python, R and sometimes Ruby, mainly doing machine learning
 <p>
 
 - _Bayesian ML_: variational inference, probablistic graphical models (e.g. CRFs)
-- _Statistical time series concepts_: autocorrelation, forecasting models (ARIMA, GARCH etc.)
+- _Statistical time series_: autocorrelation, forecasting models (ARIMA, GARCH etc.)
 - _State-of-the-art NLP language modelling techniques_: transformers, BERT and GPT-3
 - _Ensemble classifiers_: bagging and boosting (with AdaBoost, XGBoost, LightGBM etc.)
 
