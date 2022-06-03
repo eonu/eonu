@@ -2,9 +2,11 @@
   👋
 </h1>
 
-<img src="/img/xkcd.png" width="200px" align="right"></img>
+<img src="/img/xkcd.png" width="225px" align="right"></img>
 
-Hi! My name is Edwin, and I'm currently a data scientist at [Nibble](https://www.nibbletechnology.com/) looking at ways of using machine learning to improve a conversational AI agent for negotiation. I recently finished my MSc in Statistics with Data Science at the [School of Mathematics, University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics).
+Hi! My name is Edwin, and I'm currently a machine learning engineer at [Hazy](https://hazy.com/) looking at ways of improving a privacy-preserving synthetic data generation platform for enterprise data analytics.
+
+I studied at the [University of Edinburgh](https://www.ed.ac.uk/), with a master's in Statistics with Data Science at the [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics), and a bachelor's in Computer Science at the [School of Informatics](https://www.ed.ac.uk/informatics).
 
 I normally work with Python, R and sometimes Ruby, mainly doing machine learning or data science related things in Python and R, and any general purpose scripting, task automation or web development in Python and Ruby – but I'm always interested in learning new things!
 
