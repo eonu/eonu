@@ -2,7 +2,7 @@
   👋
 </h1>
 
-<img src="/img/xkcd.png" width="215px" align="right"></img>
+<img src="/img/xkcd.png" width="210px" align="right"></img>
 
 Hi! My name is Edwin, and I'm currently an ML engineer at [Hazy](https://hazy.com/) working on improving a privacy-preserving synthetic data generation platform for enterprise data analytics.
 
