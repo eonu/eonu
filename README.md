@@ -4,9 +4,9 @@
 
 <img src="/img/xkcd.png" width="225px" align="right"></img>
 
-Hi! My name is Edwin, and I'm currently a machine learning engineer at [Hazy](https://hazy.com/) looking at ways of improving a privacy-preserving synthetic data generation platform for enterprise data analytics.
+Hi! My name is Edwin, and I'm currently an ML engineer at [Hazy](https://hazy.com/) working on improving a privacy-preserving synthetic data generation platform for enterprise data analytics.
 
-I studied at the [University of Edinburgh](https://www.ed.ac.uk/), with a master's in Statistics with Data Science at the [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics), and a bachelor's in Computer Science at the [School of Informatics](https://www.ed.ac.uk/informatics).
+I studied at the [University of Edinburgh](https://www.ed.ac.uk/), with an MSc in Statistics with Data Science at the [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics), and a BSc in Computer Science at the [School of Informatics](https://www.ed.ac.uk/informatics).
 
 I normally work with Python, R and sometimes Ruby, mainly doing machine learning or data science related things in Python and R, and any general purpose scripting, task automation or web development in Python and Ruby – but I'm always interested in learning new things!
 
