@@ -16,8 +16,8 @@ I normally work with Python, R and sometimes Ruby, mainly doing machine learning
 </summary>
 <p>
 
+- _Docker and containerisation_
 - _Gaussian processes_
-- _Data engineering_
 - _AWS services_
 
 </p>
@@ -29,9 +29,10 @@ I normally work with Python, R and sometimes Ruby, mainly doing machine learning
 </summary>
 <p>
 
-- _Bayesian ML_: variational inference, probablistic graphical models (e.g. CRFs)
+- _Character encodings_
+- _Graphs_: general graph theory concepts, spectral graph theory, graph ML
+- _Bayesian methods_: variational inference, probablistic graphical models, Bayesian optimization
 - _Statistical time series_: autocorrelation, forecasting models (ARIMA, GARCH etc.)
-- _State-of-the-art NLP language modelling techniques_: transformers, BERT and GPT-3
 - _Ensemble classifiers_: bagging and boosting (with AdaBoost, XGBoost, LightGBM etc.)
 
 </p>
@@ -45,7 +46,7 @@ I normally work with Python, R and sometimes Ruby, mainly doing machine learning
 
 - _Common ML methods_: GLM, logistic regression, kNN, mixture models etc.
 - _Neural networks_: mainly feed-forward and recurrent architectures, but also some knowledge and practice with CNNs
-- _Sequence classification algorithms_: HMMs, RNNs (LSTM/GRU), DTW + kNN
+- _Sequential modelling_: HMMs, RNNs, DTW
 - _Natural language processing_: word embeddings, attention, sentiment analysis
 - _Statistical methodology_: likelihood-based inference (MLE, CIs, etc.), Bayesian statistics, hypothesis testing
 
