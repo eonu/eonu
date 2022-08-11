@@ -29,7 +29,7 @@ I normally work with Python, R and sometimes Ruby, mainly doing machine learning
 </summary>
 <p>
 
-- _Character encodings_
+- _C++_
 - _Graphs_: general graph theory concepts, spectral graph theory, graph ML
 - _Bayesian methods_: variational inference, probablistic graphical models, Bayesian optimization
 - _Statistical time series_: autocorrelation, forecasting models (ARIMA, GARCH etc.)
