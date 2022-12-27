@@ -31,7 +31,7 @@ I normally work with Python, mainly using it for machine learning or data relate
 
 - _C++_
 - _Graphs_: general graph theory concepts, spectral graph theory, graph ML
-- _Bayesian methods & applications_: variational inference, probablistic graphical models, Bayesian optimization
+- _Bayesian methods & applications_: variational inference, probabilistic graphical models, Bayesian optimization
 - _Statistical time series_: autocorrelation, forecasting models (ARIMA, GARCH etc.)
 - _Ensemble classifiers_: bagging and boosting (with AdaBoost, XGBoost, LightGBM etc.)
 - _Transformers_
