@@ -8,7 +8,7 @@ Hi! My name is Ed, and I'm currently an ML engineer at [Hazy](https://hazy.com/)
 
 I studied at the [University of Edinburgh](https://www.ed.ac.uk/), with an MSc in Statistics with Data Science at the [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics), and a BSc in Computer Science at the [School of Informatics](https://www.ed.ac.uk/informatics).
 
-I normally work with Python, mainly using it for machine learning or data related things, as well as any general purpose scripting, task automation or web development (though I will sometimes do this in Ruby).
+I normally work with Python, mainly using it for machine learning or data related things, as well as any general purpose scripting, task automation or web development.
 
 <details>
 <summary>
@@ -30,7 +30,8 @@ I normally work with Python, mainly using it for machine learning or data relate
 <p>
 
 - _C++_
-- _Graphs_: general graph theory concepts, spectral graph theory, graph ML
+- _Julia_
+- _Graphs_: graph ML, spectral graph theory
 - _Bayesian methods & applications_: variational inference, probabilistic graphical models, Bayesian optimization
 - _Statistical time series_: autocorrelation, forecasting models (ARIMA, GARCH etc.)
 - _Ensemble classifiers_: bagging and boosting (with AdaBoost, XGBoost, LightGBM etc.)
