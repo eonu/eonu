@@ -48,9 +48,9 @@ I normally work with Python, mainly using it for machine learning or data relate
 
 - _Common ML methods_: GLM, logistic regression, kNN, mixture models, etc.
 - _Sequential modelling_: HMMs, RNNs, DTW
+- _Neural networks_
 - _Natural language processing (basics)_ : word embeddings, attention, sequence-to-sequence models
 - _Statistical methodology_: likelihood-based inference (MLE, CIs, etc.), Bayesian statistics, hypothesis testing
-- _Neural networks_
 
 </p>
 </details>
