@@ -16,7 +16,6 @@ I normally work with Python, mainly using it for machine learning or data relate
 </summary>
 <p>
 
-- _Graph neural networks_
 - _Gaussian processes_
 - _AWS services_
 
@@ -30,7 +29,6 @@ I normally work with Python, mainly using it for machine learning or data relate
 <p>
 
 - _C++_
-- _Julia_
 - _Graphs_: graph ML, spectral graph theory
 - _Bayesian methods & applications_: variational inference, probabilistic graphical models, Bayesian optimization
 - _Statistical time series_: autocorrelation, forecasting models (ARIMA, GARCH etc.)
